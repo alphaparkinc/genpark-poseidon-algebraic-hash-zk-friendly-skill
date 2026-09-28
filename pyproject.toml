@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-poseidon-algebraic-hash-zk-friendly-skill"
+version = "1.0.0"
+description = "Poseidon algebraic hash function for STARK/SNARK circuits with S-box power permutations and MDS matrices"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
